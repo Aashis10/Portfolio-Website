@@ -1,5 +1,6 @@
 "use client"
 
+import React from "react"
 import { Button } from "@/components/ui/button"
 import { Github, Linkedin, Instagram, Mail, Download, ArrowRight } from 'lucide-react'
 
